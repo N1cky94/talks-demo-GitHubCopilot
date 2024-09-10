@@ -2,7 +2,7 @@
 
 > 
 > This document relays the given demo and the specific tasks that are shown 
-> with an example of query we can give to GitHub Copilot.
+> with an example of the query we can give to GitHub Copilot.
 > 
 
 This demo takes a rather simple algorithm where we need to clean up the code 
@@ -20,11 +20,12 @@ the algorithm.
 ## Some features
 
 1. Code generation (disabled during demo)
-2. New chat
-3. Chat history
-4. Clean up chats
-5. Reference adding
-6. Chatting and conversing
+2. GitHub Copilot menu
+3. New chat
+4. Chat history
+5. Clean up chats
+6. Reference adding
+7. Chatting and conversing
 
 ## Explain the code
 
